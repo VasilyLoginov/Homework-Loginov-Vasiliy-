@@ -6,7 +6,7 @@ import java.util.Random;
 import  java.util.Scanner;
 
 public class tictactoe {
-    public static final int SIZE = 4;
+    public static final int SIZE = 5;
     public static final int DOTS_TO_WIN = 3;
 
     public static final char DOT_EMPTY = 8226; //9679 //8226
